@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sqlitetest</string>
+    <string name="friend_name">Name</string>
+    <string name="friend_age">Age</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+
+    <string name="alert_title">Delete this friend?</string>
+    <string name="alert_message">Are you sure to delete this friend?</string>
+
+    <string name="add_data_title">Add this friend?</string>
+    <string name="add_data_message">Are you sure to add this friend?</string>
+    <string name="title_activity_edit_friend">EditFriend</string>
+</resources>
